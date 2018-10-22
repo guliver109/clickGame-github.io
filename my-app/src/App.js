@@ -48,7 +48,7 @@ render(){
   return (
     //wrapper on display
   <Wrapper>
-    
+
     <Header score={this.state.score} 
             highscore={this.state.highscore}>Click Card Game:</Header>
     
