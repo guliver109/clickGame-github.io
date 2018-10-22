@@ -26,3 +26,6 @@
   padding-right: 1rem;
   font-size: 15px;
 }
+.card:hover {
+  cursor: pointer;
+}
