@@ -50,7 +50,7 @@ render(){
   <Wrapper>
 
     <Header score={this.state.score} 
-            highscore={this.state.highscore}>Click Card Game:</Header>
+            highscore={this.state.highscore}>Click Game:</Header>
     
     {this.state.cards.map(card => ( 
       <Card
