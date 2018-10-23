@@ -1,13 +1,13 @@
 {
-  "main.css": "/clickGame/static/css/main.1435be62.chunk.css",
-  "main.js": "/clickGame/static/js/main.bf58d80b.chunk.js",
-  "main.js.map": "/clickGame/static/js/main.bf58d80b.chunk.js.map",
-  "static/js/1.709840df.chunk.js": "/clickGame/static/js/1.709840df.chunk.js",
-  "static/js/1.709840df.chunk.js.map": "/clickGame/static/js/1.709840df.chunk.js.map",
-  "runtime~main.js": "/clickGame/static/js/runtime~main.04517435.js",
-  "runtime~main.js.map": "/clickGame/static/js/runtime~main.04517435.js.map",
-  "static/css/main.1435be62.chunk.css.map": "/clickGame/static/css/main.1435be62.chunk.css.map",
-  "index.html": "/clickGame/index.html",
-  "precache-manifest.0179f620aac21920ae04050c23d535ad.js": "/clickGame/precache-manifest.0179f620aac21920ae04050c23d535ad.js",
-  "service-worker.js": "/clickGame/service-worker.js"
+  "main.css": "/clickGame-github.io/static/css/main.1435be62.chunk.css",
+  "main.js": "/clickGame-github.io/static/js/main.bf58d80b.chunk.js",
+  "main.js.map": "/clickGame-github.io/static/js/main.bf58d80b.chunk.js.map",
+  "static/js/1.709840df.chunk.js": "/clickGame-github.io/static/js/1.709840df.chunk.js",
+  "static/js/1.709840df.chunk.js.map": "/clickGame-github.io/static/js/1.709840df.chunk.js.map",
+  "runtime~main.js": "/clickGame-github.io/static/js/runtime~main.a067fec4.js",
+  "runtime~main.js.map": "/clickGame-github.io/static/js/runtime~main.a067fec4.js.map",
+  "static/css/main.1435be62.chunk.css.map": "/clickGame-github.io/static/css/main.1435be62.chunk.css.map",
+  "index.html": "/clickGame-github.io/index.html",
+  "precache-manifest.b99c3ddc45e487fbc76e94284aede295.js": "/clickGame-github.io/precache-manifest.b99c3ddc45e487fbc76e94284aede295.js",
+  "service-worker.js": "/clickGame-github.io/service-worker.js"
 }
